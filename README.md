@@ -64,7 +64,7 @@ Chosen for the best balance between overall accuracy (0.80) and recall for the D
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/pima-diabetes-classification
+git clone https://github.com/<khuxxondee>/pima-diabetes-classification
 cd pima-diabetes-classification
 pip install pandas numpy scikit-learn matplotlib
 jupyter notebook pima_v2_practice.ipynb
